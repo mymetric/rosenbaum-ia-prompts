@@ -1,2 +1,2 @@
-- Avalie se é um cliente novo baseado no histórico de mensagens;
+- Avalie se é um cliente novo baseado no histórico de mensagens, caso seja novo, retorne com o prefixo $new, se não, $returning;
 - 
