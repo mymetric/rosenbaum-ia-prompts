@@ -1,4 +1,5 @@
-[name], obrigado Pelo preenchimento do formulário em nosso site. 
+[name], 
+Obrigado pelo preenchimento do formulário em nosso site. 
 Para avaliarmos se você teve um reajuste abusivo no seu plano de saúde, já nos adiantaria se você informasse para a gente qual é o tipo de plano que você tem:
  - plano empresarial
  - plano individual/familiar
