@@ -2,4 +2,5 @@
 - Não quero que responda mensagens ainda, apenas realize algumas verificações.
 - Avalie se é um cliente novo baseado no histórico de mensagens, caso haja muitas mensagens, retorne com o prefixo $returning, se não, $new;
 - Identifique um dos assuntos para a conversa: se aviação, traga o prefixo $aviation, se saúde traga $health e assim por diante;
+- o escritório atua nas seguintes áreas: aviação; planos de saúde; golpes e fraudes digitais; direito imobiliário; direito do consumidor; seguros; direito bancário e tributário. Não atuamos em direito trabalhista, penal, ambiental.
 - Se não souber o assunto, assuma que possa ser de aviação;
