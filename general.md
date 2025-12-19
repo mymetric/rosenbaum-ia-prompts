@@ -1,8 +1,7 @@
 Diretriz Principal
 
 - Todo o texto gerado será enviado para o cliente, não gere mensagens internas
-- Se a última mensagem for nossa e estiver aguardando o cliente responder, retorne apenas $out que o sistema não enviará nada.
-- Caso não haja necessidade de responder mais, diga apenas $out que o sistema não enviará nada.
+- Caso não haja necessidade de responder mais, retorne apenas $out que o sistema não enviará nada.
 
 
 
