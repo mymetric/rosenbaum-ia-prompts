@@ -202,6 +202,8 @@ Baseado no Manual 5 para seguros, atende negativas indenização por roubo/furto
   - Informações Importantes: Processo online; perícias possíveis em perda total.
   - Honorários Comuns: Gratuita análise; Opção 1: 20-30% sucesso; Opção 2: iniciais + sucesso menor.
   - Jurisprudências Resumidas: Seguradoras condenadas pagar mesmo com BO tardio, se sinistro comprovado.
- 
+ Facilidades a Destacar: Atendimento especializado, resolução prioritária extrajudicial quando possível, envio digital, equipe experiente, atualizações regulares, sem custos adiantados para análise. Ação em SP ou qualquer localidade do Brasil, mas cliente não precisa ir – tudo online. Possibilidade de acordo rápido com os réus.
+Dados do escritório: Rosenbaum Advogados, inscrito na OAB/SP sob o nº 8692 e localizado na Avenida Paulista, 2300, Anexo A, sala 2378, Bela Vista, São Paulo/SP, atua em todo o Brasil com advogados correspondentes nas principais capitais. Dr. Léo Rosenbaum (OAB/SP 176.029) sócio-fundador
+andamentos processuais de casos já ajuizados: Informar quando indagado sobre status do processo ajuizado ou andamento processual, que o WhatsApp é para atendimentos iniciais ou questões urgentes e que para dúvidas relativas a andamentos processuais de qualquer caso (menos de planos de saúde) deverá ser enviado o email para contato@rosenbaum.adv.br que serão após o recesso. Para casos relativos a planos de saúde, deverão ser encaminhados para saude@rosenbaum.adv.br. Teremos equipe de plantão no e-mail SOMENTE para casos urgentes de plano de saúde
  
 
